@@ -37,8 +37,8 @@ Here's a couple of lists for finding companies:
 - [Accelerated](https://accelerated.substack.com/)
 - [AngelList](https://angel.co/)
 - [intern.supply](https://intern.supply/)
-- [HH Internships](https://www.facebook.com/groups/HHinternships/)
-- [LSH Internships](https://www.facebook.com/groups/LSHJobs/)
+- [Hackathon Hackers (HH) Internships](https://www.facebook.com/groups/HHinternships/)
+- [Ladies Storm Hackathons (LSH) Internships](https://www.facebook.com/groups/LSHJobs/)
 - [Female Founders Fund Companies](https://jobs.femalefoundersfund.com/)
 
 ## Training Programs
@@ -60,7 +60,8 @@ VFA is a two-year fellowship program for recent grads who want to work at a star
 - [KPCB Fellowship](http://kpcbfellows.com/)
 - [hackNY Fellowship](https://hackny.org/)
 - [Civic Digital Fellowship](https://codingitforward.smapply.io/prog/civic-innovation-corps/)
-- [RDV Academy](https://www.roughdraft.vc/academy)
+- [Rough Draft Ventures (RDV) Academy](https://www.roughdraft.vc/academy)
+- [Girls Make Games Fellowship](https://www.girlsmakegames.com/gmg-fellowship)
 
 ## Remote Internships
 
@@ -75,7 +76,6 @@ VFA is a two-year fellowship program for recent grads who want to work at a star
 - [Underscore VC uFirst Accelerator](https://underscore.vc/ufirst-accelerator/)
 - [Pear Accelerator](https://www.pear.vc/accelerator)
 - [Contrary Capital Accelerator](https://contrarycap.com/accelerator)
-
 
 ## Tech Intern Resources
 
@@ -94,7 +94,7 @@ There's always a couple of fantastic conferences happening over the summer and a
 - [Google Conference Grant](https://buildyourfuture.withgoogle.com/scholarships/google-travel-scholarships/)
 - [WWDC Scholarship](https://www.wwdcscholars.com/about)
 - [Google Code Jam to I/O](https://codingcompetitions.withgoogle.com/codejamio)
-- [GHC Scholarship](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships)
+- [Grace Hopper Conference Scholarship](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships)
 - [Tapia Scholarship](http://tapiaconference.org/participate/scholarships)
 - [SIGGRAPH Student Volunteers](https://sv.siggraph.org/)
 
