@@ -21,13 +21,13 @@ I was inspired by [codebytere](https://github.com/codebytere/so-you-want-an-inte
 
 Feel free to send a PR if you have any resources you want to add! 
 
-### First and Second-Year Programs
+## First and Second-Year Programs
 
 - [Facebook University](https://www.facebook.com/careers/students-and-grads/students)
 - [Microsoft Explore](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram)
 - [Google STEP](https://buildyourfuture.withgoogle.com/internships/)
 
-### Internships
+## Internships
 
 Here's a couple of lists for finding companies:
 
@@ -41,7 +41,7 @@ Here's a couple of lists for finding companies:
 - [LSH Internships](https://www.facebook.com/groups/LSHJobs/)
 - [Female Founders Fund Companies](https://jobs.femalefoundersfund.com/)
 
-### Training Programs
+## Training Programs
 
 These aren't necessarily internships in the traditional sense, but they will prepare you for future internships.
 
@@ -53,7 +53,7 @@ This program, based on real work, will teach you the skills you need to build we
 
 VFA is a two-year fellowship program for recent grads who want to work at a startup and create jobs in American cities. Fellows learn important startup skills at our five-week Training Camp, apply for jobs within our vetted company network, and work for two years as full-time, salaried employees in one of 18 cities. When Fellows are ready to start a company — be it two years after college or ten — VFA has the resources (like a crowdfunding competition, accelerator, and seed fund) to help make that dream a reality.
 
-### Fellowships
+## Fellowships
 
 - [8VC Fellowship](http://8vcfellowship.com/)
 - [Code2040](http://www.code2040.org/)
@@ -62,12 +62,12 @@ VFA is a two-year fellowship program for recent grads who want to work at a star
 - [Civic Digital Fellowship](https://codingitforward.smapply.io/prog/civic-innovation-corps/)
 - [RDV Academy](https://www.roughdraft.vc/academy)
 
-### Remote Internships
+## Remote Internships
 
 - [Google Summer of Code](https://summerofcode.withgoogle.com)
 - [Rails Girls Summer of Code](https://railsgirlssummerofcode.org)
 
-### Accelerators
+## Accelerators
 
 - [Y Combinator](https://www.ycombinator.com/)
 - [TechStars](http://www.techstars.com/)
@@ -77,7 +77,7 @@ VFA is a two-year fellowship program for recent grads who want to work at a star
 - [Contrary Capital Accelerator](https://contrarycap.com/accelerator)
 
 
-### Tech Intern Resources
+## Tech Intern Resources
 
 - [Blind](https://www.teamblind.com)
 - [JumpStart](https://jumpstart.me)
@@ -86,7 +86,7 @@ VFA is a two-year fellowship program for recent grads who want to work at a star
 - [Inside FAANG](https://drive.google.com/file/d/1NkdbRaRzSjPQTP0ZXN1DLuYxfQ9OrYuu/view)
 - [Huntr](https://huntr.co)
 
-### Conferences
+## Conferences
 
 There's always a couple of fantastic conferences happening over the summer and a couple of grants and scholarship opportunities that open up around this time. 
 
@@ -98,7 +98,7 @@ There's always a couple of fantastic conferences happening over the summer and a
 - [Tapia Scholarship](http://tapiaconference.org/participate/scholarships)
 - [SIGGRAPH Student Volunteers](https://sv.siggraph.org/)
 
-### MIT Opportunities
+## MIT Opportunities
 
 As an MIT student, I have more specific knowledge for my university, but I'm sure if you look up tech/entrepeneruship summer opportunities, there's similar ones at your university as well!
 
@@ -114,6 +114,6 @@ These include summer opportunities, as well as general funding opportunities for
 - [Scale-Ups Fellowship](https://d-lab.mit.edu/innovation-practice/scale-ups-fellowship)
 - [MEFTI/MEMSI Hong Kong Innovation Node](https://hkinnovationnode.mit.edu/programs/mefti/)
 
-### Misc Opportunities
+## Misc Opportunities
 
 - [Roddenberry Fellowship](https://roddenberryfoundation.org/our-work/roddenberry-fellowship/)
