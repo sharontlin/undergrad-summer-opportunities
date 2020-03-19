@@ -119,3 +119,6 @@ These include summer opportunities, as well as general funding opportunities for
 ## Misc Opportunities
 
 - [Roddenberry Fellowship](https://roddenberryfoundation.org/our-work/roddenberry-fellowship/)
+- [Unshackled Ventures](https://www.unshackledvc.com/
+- [Apple Entrepreneur Camp](https://developer.apple.com/entrepreneur-camp/)
+- [Women Startup Challenges](https://www.womenwhotech.com/women-startup-challenges)
