@@ -29,7 +29,7 @@ Feel free to send a PR if you have any resources you want to add!
 
 ## Internships
 
-Here's a couple of lists for finding companies:
+Here's a couple of lists for finding companies. I also recommend joining your department mailing lists and job listings - there's usually a ton of emails that get sent to these types of groups, so I recommend making a filter to separate them into folders and checking them occasionally for relevant opportunities.
 
 - [Breakout List](https://breakoutlist.com/all/)
 - [Contrary Capital Startup Search](https://airtable.com/shrMs8at2arS8ulqA)
@@ -40,6 +40,7 @@ Here's a couple of lists for finding companies:
 - [Hackathon Hackers (HH) Internships](https://www.facebook.com/groups/HHinternships/)
 - [Ladies Storm Hackathons (LSH) Internships](https://www.facebook.com/groups/LSHJobs/)
 - [Female Founders Fund Companies](https://jobs.femalefoundersfund.com/)
+- [SWIB Opportunities](http://www.stanfordwomeninbusiness.com/opportunities-blog)
 
 ## Training Programs
 
