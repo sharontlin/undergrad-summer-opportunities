@@ -69,6 +69,8 @@ VFA is a two-year fellowship program for recent grads who want to work at a star
 
 - [Google Summer of Code](https://summerofcode.withgoogle.com)
 - [Rails Girls Summer of Code](https://railsgirlssummerofcode.org)
+- [Google Season of Docs](https://developers.google.com/season-of-docs)
+- [Google Public Policy Fellowship](https://www.google.com/policyfellowship/)
 
 ## Accelerators
 
@@ -115,6 +117,7 @@ These include summer opportunities, as well as general funding opportunities for
 - [Sandbox Innovation Fund](http://sandbox.mit.edu/)
 - [Scale-Ups Fellowship](https://d-lab.mit.edu/innovation-practice/scale-ups-fellowship)
 - [MEFTI/MEMSI Hong Kong Innovation Node](https://hkinnovationnode.mit.edu/programs/mefti/)
+- [MIT Washington, DC Program](https://web.mit.edu/summerwash/)
 
 ## Misc Opportunities
 
