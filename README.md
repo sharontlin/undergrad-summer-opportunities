@@ -128,3 +128,5 @@ These include summer opportunities, as well as general funding opportunities for
 - [Women Startup Challenges](https://www.womenwhotech.com/women-startup-challenges)
 - [Imagine Cup](https://imaginecup.com/)
 - [Pioneer Accelerator](https://pioneer.app/)
+- [1517 Fund](https://www.1517fund.com/)
+- [XX by WeFunder](https://xx.team/deals)
