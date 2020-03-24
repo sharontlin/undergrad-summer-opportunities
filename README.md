@@ -64,6 +64,7 @@ VFA is a two-year fellowship program for recent grads who want to work at a star
 - [Civic Digital Fellowship](https://codingitforward.smapply.io/prog/civic-innovation-corps/)
 - [Rough Draft Ventures (RDV) Academy](https://www.roughdraft.vc/academy)
 - [Girls Make Games Fellowship](https://www.girlsmakegames.com/gmg-fellowship)
+- [Amgen Scholars](https://amgenscholars.com/)
 
 ## Remote Internships
 
@@ -102,6 +103,8 @@ There's always a couple of fantastic conferences happening over the summer and a
 - [Grace Hopper Conference Scholarship](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships)
 - [Tapia Scholarship](http://tapiaconference.org/participate/scholarships)
 - [SIGGRAPH Student Volunteers](https://sv.siggraph.org/)
+- [GDC Scholarships](https://www.gdconf.com/other-ways-to-attend)
+- [Diversify Tech Scholarships](https://www.diversifytech.co/tech-conference-scholarships)
 
 ## MIT Opportunities
 
@@ -120,6 +123,16 @@ These include summer opportunities, as well as general funding opportunities for
 - [MEFTI/MEMSI Hong Kong Innovation Node](https://hkinnovationnode.mit.edu/programs/mefti/)
 - [MIT Washington, DC Program](https://web.mit.edu/summerwash/)
 - [MISTI/Global Teaching Labs/Global Startup Labs](https://misti.mit.edu/)
+- [designX](https://designx.mit.edu/)
+- [iDiplomats @ REAP](https://reap.mit.edu/get-involved/students-learn/)
+- [Singapore-MIT Undergraduate Research Fellowship](https://smart.mit.edu/fellowships/for-undergraduate-smurf)
+- [Global Startup Workshop](http://gsw.mit.edu/2020/)
+- [projX Fund](https://projx.mit.edu/)
+- [PKG Fellowship](https://pkgcenter.mit.edu/programs/fellowships/)
+- [Eloranta Research Fellowship](https://urop.mit.edu/urop/peter-j-eloranta-summer-undergraduate-research-fellowships)
+- [Kelly Douglas Fund](https://studyabroad.mit.edu/study-abroad/funding-study-abroad)
+- [MIT Sea Grant](https://seagrant.mit.edu/student-opportunities/)
+- [MIT Energy Initiative](http://energy.mit.edu/education/undergraduate/urop/)
 
 ## Misc Opportunities
 
@@ -131,3 +144,4 @@ These include summer opportunities, as well as general funding opportunities for
 - [Pioneer Accelerator](https://pioneer.app/)
 - [1517 Fund](https://www.1517fund.com/)
 - [XX by WeFunder](https://xx.team/deals)
+- [David Projects for Peace](https://www.davisprojectsforpeace.org/)
