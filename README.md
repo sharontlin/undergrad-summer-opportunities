@@ -55,6 +55,14 @@ This program, based on real work, will teach you the skills you need to build we
 
 VFA is a two-year fellowship program for recent grads who want to work at a startup and create jobs in American cities. Fellows learn important startup skills at our five-week Training Camp, apply for jobs within our vetted company network, and work for two years as full-time, salaried employees in one of 18 cities. When Fellows are ready to start a company — be it two years after college or ten — VFA has the resources (like a crowdfunding competition, accelerator, and seed fund) to help make that dream a reality.
 
+[Violet Society](https://www.thevioletsociety.com/)
+
+The Violet Society is a comprehensive career accelerator for underrepresented people in tech.
+
+[Rewriting the Code Fellowship](https://rewritingthecode.org/fellowship/)
+
+The Rewriting the Code Fellowship Program is for women undergraduates studying computer science and engineering who are interested in gaining applied experience through potential internships or full-time jobs with leading tech companies.
+
 ## Fellowships
 
 - [8VC Fellowship](http://8vcfellowship.com/)
@@ -145,3 +153,4 @@ These include summer opportunities, as well as general funding opportunities for
 - [1517 Fund](https://www.1517fund.com/)
 - [XX by WeFunder](https://xx.team/deals)
 - [David Projects for Peace](https://www.davisprojectsforpeace.org/)
+- [NCWIT Collegiate Award](https://www.aspirations.org/recognitions/AiCCollegiateAward)
