@@ -4,6 +4,8 @@
 - [What is this?](#what-is-this)
 - [First and Second-Year Programs](#first-and-second-year-programs)
 - [Internships](#internships)
+- [Research](#research)
+- [Teaching Assistant](#teaching-assistant)
 - [Training Programs](#training-programs)
 - [Fellowships](#fellowships)
 - [Remote Internships](#remote-internships)
@@ -42,6 +44,22 @@ Here's a couple of lists for finding companies. I also recommend joining your de
 - [Female Founders Fund Companies](https://jobs.femalefoundersfund.com/)
 - [SWIB Opportunities](http://www.stanfordwomeninbusiness.com/opportunities-blog)
 - [Product Hunt Jobs](https://www.producthunt.com/jobs)
+
+## Research
+
+Most universities have some form of a summer research program, and it's often paid or comes with a stipend. If you're unable to find an internship, try looking for a research project. These can often lead to conference posters, publications, connections to faculty members, and other useful experiences. 
+
+- [National Science Foundation REU listing](https://www.nsf.gov/crssprgm/reu/reu_search.jsp)
+- [NASA Internship](https://intern.nasa.gov/)
+- [Quantum Undergraduate Research at IBM and Princeton (QURIP)](https://www.ibm.com/quantum-computing/internship/qurip/)
+
+## Teaching Assistant 
+
+Many middle and high school summer programs offer summer TA or instructor positions to qualifying university students. Your university may even have a few!
+
+- [Girls Who Code TA/Instructor](https://jobs.lever.co/girlswhocode)
+- [Center for Talented Youth TA](https://cty.jhu.edu/jobs/summer/index.html)
+- [iD Tech Camp TA](https://www.idtech.com/)
 
 ## Training Programs
 
@@ -154,3 +172,5 @@ These include summer opportunities, as well as general funding opportunities for
 - [XX by WeFunder](https://xx.team/deals)
 - [David Projects for Peace](https://www.davisprojectsforpeace.org/)
 - [NCWIT Collegiate Award](https://www.aspirations.org/recognitions/AiCCollegiateAward)
+- [Distill Prize](https://distill.pub/prize/)
+- [Boren Scholarships](https://www.borenawards.org/)
